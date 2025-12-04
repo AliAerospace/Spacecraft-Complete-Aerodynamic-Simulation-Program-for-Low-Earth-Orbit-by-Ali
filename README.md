@@ -83,8 +83,14 @@ and in here replace "/Users/ali/Documents/MATLAB" with your file location which 
 <img width="443" height="275" alt="image" src="https://github.com/user-attachments/assets/921ed5b9-3342-4ffd-985f-da5d0bf4fadc" />
 - Hit RUN and enjoy using the program.
 
-DEMONSTRATION 1min video:
+### 🎥 DEMONSTRATION - 1 min video:
+
 Note: in this video I had ran previously ran the 30deg yaw, which is why it computed so quickly. With a decent computer, around 13000 panels computes in a few seconds. I could make the ray-tracing even faster but for now it provides results that are very good so that may come in a future update.
+
+Extra Note: If you wish to alter the date/time/orbital parameters these can be altered in the code here. In an update it will be added to the UI:
+
+<img width="916" height="165" alt="image" src="https://github.com/user-attachments/assets/21f58a86-c9bd-410d-8b42-a6d04e1aa4bf" />
+
 
 
 

@@ -15,6 +15,21 @@ This tool visualises any spacecraft geometry, computes drag/lift/side forces, ev
 Designed for research, education, and demonstration purposes.
 If you have are at a company and wish to use the model then do message me for advice before continuing.
 
+## Some Screenshots of the program running NASAs Aura satellite (which I made in fusion - 14000 panels)
+
+## Black area is shadowed from incoming molecules thanks to my ray-tracing algorithm
+
+<img width="1690" height="921" alt="2025-12-04_21-10-08" src="https://github.com/user-attachments/assets/72657e71-e0e1-49ab-9197-dd61f2895247" />
+
+## Pressure distribution from reflected molecules after complete thermal accommodation
+
+<img width="1712" height="956" alt="2025-12-04_21-11-21" src="https://github.com/user-attachments/assets/baa611ad-1105-44c8-92fc-7ed11ab59fe2" />
+
+## More numerical outputs of the program
+
+<img width="1269" height="430" alt="2025-12-04_21-11-33" src="https://github.com/user-attachments/assets/77bec380-611c-427d-b2cb-58ebe8735e3f" />
+
+
 ## 🛰️ Features
 
 ### **Geometry Handling**

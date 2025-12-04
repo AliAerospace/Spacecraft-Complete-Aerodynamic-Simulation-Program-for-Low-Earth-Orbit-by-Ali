@@ -71,16 +71,20 @@ Note: The .stl files are some high-fidelity satellites that I have made myself i
 - In your MATLAB folder paste all of the files (excluding Readme file).
 - Make a new folder called MATLAB RAYTRACING within the MATLAB folder.
 - REMEMBER: WHENEVER YOU LAUNCH THE PROGRAM YOU MUST ENSURE THAT YOU RIGHT CLICK ON EACH FOLDER AND SELECT "Selected Folder(s) and Subfolders"
-  <img width="640" height="109" alt="image" src="https://github.com/user-attachments/assets/091f90b9-9b9f-4a6b-8a78-efcf2984b482" />
+- 
+  <img width="640" height="109" alt="image" src="https://github.com/user-attachments/assets/091f90b9-9b9f-4a6b-8a78-efcf2984b482" />\
+
 - The reason for this MATLAB RAYTRACING folder is for the program to save the computed shadows in it to avoid excessive wait times later on.
 - Open the LEOAEROSIMbyAliAerospace.m file within MATLAB and scroll down to (look at image below):
-  <img width="1225" height="85" alt="image" src="https://github.com/user-attachments/assets/6abb5b36-15db-473b-8377-4c851aa12252" />
+- 
+  <img width="937" height="162" alt="image" src="https://github.com/user-attachments/assets/7dc1a9b2-6dd0-4955-855b-360aeab8a53a" />
+  
 and in here replace "/Users/ali/Documents/MATLAB" with your file location which can be found by simply double clicking here:
 <img width="443" height="275" alt="image" src="https://github.com/user-attachments/assets/921ed5b9-3342-4ffd-985f-da5d0bf4fadc" />
 - Hit RUN and enjoy using the program.
 
 DEMONSTRATION 1min video:
-Note: in this video I had ran the 30deg yaw previously which is why it computed so quickly. With a decent computer around 13k cells computes in a few seconds. I could make the ray-tracing even faster but for now it provides results that are very good so that may come in a future update.
+Note: in this video I had ran previously ran the 30deg yaw, which is why it computed so quickly. With a decent computer, around 13000 panels computes in a few seconds. I could make the ray-tracing even faster but for now it provides results that are very good so that may come in a future update.
 
 
 

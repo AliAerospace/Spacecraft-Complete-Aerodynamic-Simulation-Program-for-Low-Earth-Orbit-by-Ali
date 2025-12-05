@@ -98,7 +98,7 @@ and in here replace "/Users/ali/Documents/MATLAB" with your file location which 
 <img width="443" height="275" alt="image" src="https://github.com/user-attachments/assets/921ed5b9-3342-4ffd-985f-da5d0bf4fadc" />
 - Hit RUN and enjoy using the program.
 
-### 🎥 DEMONSTRATION - 1 min video:
+## 🎥 DEMONSTRATION - 1 min video:
 
 Note: in this video I had ran previously ran the 30deg yaw, which is why it computed so quickly. With a decent computer, around 13000 panels computes in a few seconds. I could make the ray-tracing even faster but for now it provides results that are very good so that may come in a future update.
 
@@ -112,11 +112,24 @@ Extra Note: If you wish to alter the date/time/orbital parameters these can be a
 https://github.com/user-attachments/assets/38c85e5e-99f7-4c08-b2d3-0c9e57184d79
 
 
+## ⚡️ Further Capabilities for Advanced Users
+Using the code itself, plots can be created for any variation of any parameter. I have made the following examples for satellites and objects comparing this program RTPM to the industry standard DSMC for validation purposes. This program has been extensively validated in my research:
 
+<img width="1005" height="610" alt="image" src="https://github.com/user-attachments/assets/13ed2a39-2990-4af5-ace5-35bb7c303657" />
 
+<img width="907" height="566" alt="image" src="https://github.com/user-attachments/assets/7f640445-a301-48fc-9496-66fed13593d9" />
 
+<img width="1005" height="597" alt="image" src="https://github.com/user-attachments/assets/58e91b81-2633-427d-a193-65602d88a1be" />
 
+<img width="995" height="603" alt="image" src="https://github.com/user-attachments/assets/fd2aeb0e-abad-48ce-810a-0d6aa01f4d88" />
 
+Here is the table of parameters:
+
+<img width="997" height="638" alt="image" src="https://github.com/user-attachments/assets/da150cd9-7a2e-4a6e-baba-9907347d6460" />
+
+<img width="1012" height="596" alt="image" src="https://github.com/user-attachments/assets/c293276a-196a-4b55-b1d4-c23399dfb415" />
+
+<img width="990" height="582" alt="image" src="https://github.com/user-attachments/assets/d296bc31-04fa-4665-b456-1ec1d80a4aba" />
 
 
 

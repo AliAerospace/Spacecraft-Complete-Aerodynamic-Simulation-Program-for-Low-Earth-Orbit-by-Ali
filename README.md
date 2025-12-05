@@ -15,7 +15,7 @@ This tool visualises any spacecraft geometry, computes drag/lift/side forces, ev
 Designed for research, education, and demonstration purposes.
 If you have are at a company and wish to use the model then do message me for advice before continuing.
 
-## Some Screenshots of the program running NASAs Aura satellite (which I made in fusion - 14000 panels)
+Below are some screenshots of the program running NASAs Aura satellite (which I made in fusion - 14000 panels).
 
 ## Black area is shadowed from incoming molecules thanks to my ray-tracing algorithm
 

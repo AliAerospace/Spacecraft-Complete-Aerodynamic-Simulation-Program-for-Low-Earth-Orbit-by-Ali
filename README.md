@@ -10,7 +10,7 @@ This is a complete MATLAB-based graphical user interface (GUI) for simulating **
 
 This tool visualises any spacecraft geometry, computes drag/lift/side forces, evaluates gas-surface interaction physics using the **Cercignani–Lampis–Lord GSIM model**, and performs a full **3D ray-tracing shadow detection** for free-molecular flow.
 
-**Showcase At The Bottom**⬇️ 
+**Showcase At The Bottom** ⬇️ 
 
 Designed for research, education, and demonstration purposes.
 If you have are at a company and wish to use the model then do message me for advice before continuing.

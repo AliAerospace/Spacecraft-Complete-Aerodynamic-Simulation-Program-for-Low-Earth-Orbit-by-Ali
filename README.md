@@ -2,7 +2,7 @@
 
 This project is based on my publishing research on spacecraft aerodynamics which will be published on the Journal of Spacecraft and Rockets very soon. This uses a ray-tracing panel method.
 
-**YOU MAY NOT ALTER OR COPY THIS PROGRAM AS IT IS A NOVEL MODEL.**
+**YOU MAY NOT ALTER OR COPY THIS PROGRAM WITHOUT MY PERMISSION AS IT IS A NOVEL MODEL.**
 
 **IMPORTANCE ❗️ - This program beats the existing methods (industry standard Direct Simulation Monte-Carlo (DSMC)) for low earth orbit aerodynamic simulations by orders of magnitude in terms of speed and efficiency with the results being within a few percent. My program uses the state-of-the-art Cercignani-Lampis-Lord gas surface interaction model (GSIM) in a closed form approximate solution which was not previously possible (more details will be in paper). Other attempts used simpler GSIM's which meant that they could not obtain realistic results with quasi-specular energy accommodation coefficients.**
 

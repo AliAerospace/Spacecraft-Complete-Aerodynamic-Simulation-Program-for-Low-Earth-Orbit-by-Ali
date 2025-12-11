@@ -857,7 +857,7 @@ classdef LEOAEROSIMbyAliAerospace < matlab.apps.AppBase
 
                 %species number densities
                 n = rhovec(1) + rhovec(2) + rhovec(3) + rhovec(4) + ...
-                    rhovec(5) + rhovec(7) + rhovec(8) + rhovec(9);   % number density
+                    rhovec(5) + rhovec(7) + rhovec(8) + rhovec(9);  
 
                 rho6 = rhovec(6);
 

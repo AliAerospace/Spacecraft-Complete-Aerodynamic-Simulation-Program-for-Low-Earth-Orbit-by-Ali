@@ -321,9 +321,9 @@ classdef LEOAEROSIMbyAliAerospace < matlab.apps.AppBase
 
         %auto update orbital velocity
         function updateAutoVelocity(app)
-            Gr = 6.6743e-11;        % gravitational constant
-            Me = 5.972e24;          % Earth mass [kg]
-            Re = 6371000;           % Earth radius [m]
+            Gr = 6.6743e-11;        %grav const
+            Me = 5.972e24;          %earth mass kg
+            Re = 6371000;           %earth radius m
             h  = app.AltitudeEditField.Value * 1000;  % to m
             if h < 0
                 h = 0;

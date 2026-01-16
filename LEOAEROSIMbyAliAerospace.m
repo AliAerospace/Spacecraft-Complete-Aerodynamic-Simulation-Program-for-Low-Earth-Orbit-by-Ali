@@ -788,7 +788,7 @@ classdef LEOAEROSIMbyAliAerospace < matlab.apps.AppBase
             pitchDeg = app.PitchEditField.Value;
             rollDeg  = app.RollEditField.Value;
 
-            %right-hand-rule, matching your original code exactly
+            
             psi   = deg2rad(-yawDeg);     %MATLAB axes correction
             theta = deg2rad(pitchDeg);
             phi   = deg2rad(-rollDeg);    %MATLAB axes correction

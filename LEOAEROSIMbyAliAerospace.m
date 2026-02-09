@@ -1282,9 +1282,9 @@ classdef LEOAEROSIMbyAliAerospace < matlab.apps.AppBase
             results.CSb     = CSb;
             results.CNb     = CNb;
 
-            results.FD      = CD*rho6;
-            results.FL      = CL*rho6;
-            results.FS      = CS*rho6;
+            results.FD      = CD*rho6*0.5*Aunref*(norm(U)^2);
+            results.FL      = CL*rho6*0.5*Aunref*(norm(U)^2);
+            results.FS      = CS*rho6*0.5*Aunref*(norm(U)^2);
 
             results.CG      = CG;
             results.lunrefx = lunrefx;
